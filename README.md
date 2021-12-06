@@ -1,2 +1,1 @@
 # GlassfishJerseyClient
-# Updated
